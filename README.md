@@ -7,4 +7,4 @@ Contributors for this website were I(@ShalinaBhargava) and Shubham Agrawal(@shub
 
 Main technologies used: HTML, CSS, Javascript, Bootstrap3, jQuery.
 
-![Significant pages of the website](https://drive.google.com/file/d/1LfZjiUT5YoheL3ofBuNUNyltFkZUsEou/view?usp=sharing)  
+![Significant pages of the website](https://github.com/ShalinaBhargava/samvid-2019/blob/master/Samvid.png)  
